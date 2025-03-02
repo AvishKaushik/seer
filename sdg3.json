@@ -1,0 +1,104 @@
+{
+  "sdg": "3",
+  "title": "Good Health and Well-Being",
+  "projectName": "MentalHealthTracker",
+  "projectDescription": "",
+  "repositoryUrl": "",
+  "organization": "Centers for Medicare & Medicaid Services",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "open-source"
+  ],
+  "status": "Release",
+  "version": "2.1.0",
+  "permissions": {
+    "license": [
+      {
+        "name": "MIT",
+        "URL": "https://opensource.org/licenses/MIT"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "sdgAlignments": {
+    "sdg": "3",
+    "title": "Good Health and Well-Being",
+    "alignments": [
+      {
+        "id": "3",
+        "question": "Does your project promote healthcare, mental health, fitness, or general well-being?",
+        "response": "yes",
+        "targets": [
+          {
+            "id": "3.1",
+            "question": "Does your project help reduce maternal mortality?",
+            "response": "no"
+          },
+          {
+            "id": "3.2",
+            "question": "Does it prevent child mortality under 5 years of age?",
+            "response": "yes"
+          },
+          {
+            "id": "3.3",
+            "question": "Does it combat communicable diseases like AIDS, tuberculosis, and malaria?",
+            "response": "yes"
+          },
+          {
+            "id": "3.4",
+            "question": "Does it address non-communicable diseases such as mental health, cancer, and heart disease?",
+            "response": "unsure"
+          },
+          {
+            "id": "3.5",
+            "question": "Does it prevent and treat substance abuse, including drug and alcohol addiction?",
+            "response": "yes"
+          },
+          {
+            "id": "3.6",
+            "question": "Does it work towards halving deaths and injuries from road traffic accidents?",
+            "response": "no"
+          },
+          {
+            "id": "3.7",
+            "question": "Does it improve access to reproductive healthcare and family planning?",
+            "response": "no"
+          },
+          {
+            "id": "3.8",
+            "question": "Does it promote universal health coverage and affordable healthcare?",
+            "response": "unsure"
+          },
+          {
+            "id": "3.9",
+            "question": "Does it reduce deaths and illnesses from pollution and hazardous chemicals?",
+            "response": "unsure"
+          },
+          {
+            "id": "3.a",
+            "question": "Does it support reducing tobacco consumption?",
+            "response": "yes"
+          },
+          {
+            "id": "3.b",
+            "question": "Does it promote vaccine research and access to medicines for all?",
+            "response": "no"
+          },
+          {
+            "id": "3.c",
+            "question": "Does it increase health financing and the healthcare workforce?",
+            "response": "unsure"
+          },
+          {
+            "id": "3.d",
+            "question": "Does it strengthen early warning and risk reduction for global health crises?",
+            "response": "yes"
+          }
+        ]
+      }
+    ],
+    "nonAlignments": []
+  }
+}
